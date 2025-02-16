@@ -1,0 +1,10 @@
+{
+  "admin": {
+    "IsDarkMode": true,
+    "IsSimpleView": true
+  },
+  "teste": {
+    "IsDarkMode": true,
+    "IsSimpleView": true
+  }
+}

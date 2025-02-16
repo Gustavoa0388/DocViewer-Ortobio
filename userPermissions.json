@@ -1,0 +1,61 @@
+{
+  "admin": [
+    "Documentos Vigentes",
+    "DT",
+    "EC",
+    "EMF",
+    "GR",
+    "NP",
+    "RM",
+    "RMP",
+    "SF",
+    "Documentos Obsoletos",
+    "DT",
+    "EC",
+    "EMF",
+    "GR",
+    "NP",
+    "RM",
+    "RMP",
+    "SF",
+    "Validações"
+  ],
+  "user1": [
+    "DT",
+    "SF"
+  ],
+  "user2": [
+    "NP",
+    "RM"
+  ],
+  "gustavo": [
+    "Documentos Vigentes",
+    "DT",
+    "EC",
+    "EMF",
+    "GR",
+    "NP",
+    "RM",
+    "RMP",
+    "SF",
+    "Documentos Obsoletos",
+    "DT",
+    "EC",
+    "EMF",
+    "GR",
+    "NP",
+    "RM",
+    "RMP",
+    "SF",
+    "Validações",
+    "Validações"
+  ],
+  "teste1": [
+    "Documentos Vigentes",
+    "DT",
+    "SF",
+    "Documentos Obsoletos",
+    "DT",
+    "SF"
+  ]
+}
